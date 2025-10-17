@@ -251,10 +251,9 @@ We will try to make this list updated. If you found any error or any missed pape
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** | ACL | 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1298/) | ![Star](https://img.shields.io/github/stars/yczhou001/MAM.svg?style=social&label=Star) <br> [GitHub](https://github.com/yczhou001/MAM) |
-| **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/OpenBMB/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/OpenBMB/MMedAgent) |
+| **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wangyixinxin/MMedAgent) |
 | **AURA: A Multi-modal Medical Agent for Understanding, Reasoning & Annotation** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.16940v1) | ![Star](https://img.shields.io/github/stars/nimafathi/AURA.svg?style=social&label=Star) <br> [GitHub](https://github.com/nimafathi/AURA) |
-| **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.08998v1) | ![Star](https://img.shields.io/github/stars/MAGIC-AI4Med/M3Builder.svg?style=social&label=Star) <br> [GitHub](https://github.com/MAGIC-AI4Med/M3Builder) |
-| **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.11640v1) | ![Star](https://img.shields.io/github/stars/zzc-plus/I3-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/zzc-plus/I3-Agent) |
+| **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.08998v1) | Not Available |
 | **A Multimodal Multi-Agent Framework for Radiology Report Generation** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.09787v1) | Not Available |
 | **A Multi-Agent System for Complex Reasoning in Radiology Visual Question Answering** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02841v1) | Not Available |
 
