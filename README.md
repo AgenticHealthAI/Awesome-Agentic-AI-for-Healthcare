@@ -249,7 +249,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.16229v1) | ![Star](https://img.shields.io/github/stars/YurenMao/CT-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/YurenMao/CT-Agent) |
+| **CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.16229v1) | Not Available |
 | **MedRAX: Medical reasoning agent for chest x-ray** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02673v2) | ![Star](https://img.shields.io/github/stars/bowang-lab/MedRAX.svg?style=social&label=Star) <br> [GitHub](https://github.com/bowang-lab/MedRAX) |
 | **AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.19322v1) | ![Star](https://img.shields.io/github/stars/XLIAaron/uncertainty-aware-cxr-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/XLIAaron/uncertainty-aware-cxr-agent) |
 | **PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.10501v1) | Not Available |
@@ -267,28 +267,26 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.19830v1) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag) |
 | **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02737v1) | Not Available |
 
-Of course. Here is the corrected and updated table in English, with benchmark papers removed and project links verified.
-
-#### **1.4 Cardiovascular Imaging**
+##### **1.4 Cardiovascular Imaging**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03460v2) | ![Star](https://img.shields.io/github/stars/MengyunQ/CHeart.svg?style=social&label=Star) <br> [GitHub](https://github.com/MengyunQ/CHeart) |
 
-#### **1.5 Sonography / Ultrasound**
+##### **1.5 Sonography / Ultrasound**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.13052v1) | ![Star](https://img.shields.io/github/stars/stytim/IVS.svg?style=social&label=Star) <br> [GitHub](https://github.com/stytim/IVS) |
 
-#### **1.6 Radiotherapy**
+##### **1.6 Radiotherapy**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.17553v1) | Not Available |
 | **A feasibility study of automating radiotherapy planning with large language model agents** | Physics in Medicine & Biology | 2025 | [Paper](https://doi.org/10.1088/1361-6560/adbff1) | Not Available |
 
-#### **1.7 Dermatology**
+##### **1.7 Dermatology**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
