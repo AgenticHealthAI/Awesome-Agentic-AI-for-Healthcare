@@ -231,13 +231,13 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Year 2023
 
-1.  [arxiv 2023.12] **Are we going mad? benchmarking multi-agent debate between language models for medical q\&a** [[paper]](http://arxiv.org/abs/2312.04123v1)
-2.  [arxiv 2023.10] **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** [[paper]](http://arxiv.org/abs/2310.13583v1)
+1.  [NeurIPS workshop 2023] **Are we going mad? benchmarking multi-agent debate between language models for medical q\&a** [[paper]](https://openreview.net/forum?id=Bfr0m4Ucl6)
+2.  [arxiv 2023.9] **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** [[paper]](https://arxiv.org/abs/2309.09357)
 3.  [arxiv 2023.7] **Understanding the benefits and challenges of using large language model-based conversational agents for mental well-being support** [[paper]](http://arxiv.org/abs/2307.15810v1)
-4.  [arxiv 2023.3] **DERA: enhancing large language model completions with dialog-enabled resolving agents** [[paper]](http://arxiv.org/abs/2303.17071v1)
+4.  [arxiv 2023.3] **DERA: enhancing large language model completions with dialog-enabled resolving agents** [[paper]](http://arxiv.org/abs/2303.17071v1) [[dataset]](https://github.com/curai/curai-research/tree/main/DERA)
 5.  [JMIR] **The ChatGPT (generative artificial intelligence) revolution has made artificial intelligence approachable for medical professionals** [[paper]](https://doi.org/10.2196/48392)
-6.  [JMIR] **Automated monitoring of adherence to evidenced-based clinical guideline recommendations: design and implementation study** [[paper]](https://www.jmir.org/2023/1/e46638/)
-7.  [JMIR Med Educ 2023] **Using ChatGPT for clinical practice and medical education: cross-sectional survey of medical students’ and physicians’ perceptions** [[paper]](https://mededu.jmir.org/2023/1/e48336)
+6.  [JMIR] **Automated monitoring of adherence to evidenced-based clinical guideline recommendations: design and implementation study** [[paper]](https://www.jmir.org/2023/1/e41177/)
+7.  [JMIR Med Educ 2023] **Using ChatGPT for clinical practice and medical education: cross-sectional survey of medical students’ and physicians’ perceptions** [[paper]]([https://mededu.jmir.org/2023/1/e48336](https://mededu.jmir.org/2023/1/e50658/))
 8.  [CHI 2023] **Assertiveness-based agent communication for a personalized medicine on medical imaging diagnosis** [[paper]](https://dl.acm.org/doi/10.1145/3544548.3580682)
 
 
