@@ -1,4 +1,4 @@
-# Awesome-Agentic-AI-for-Healthcare
+# Awesome Agentic AI for Healthcare
  
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
