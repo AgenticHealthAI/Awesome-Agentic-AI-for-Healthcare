@@ -267,7 +267,34 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.19830v1) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag) |
 | **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02737v1) | Not Available |
 
-##### **1.4 Genomics & Biomarker Agents**
+Of course. Here is the corrected and updated table in English, with benchmark papers removed and project links verified.
+
+#### **1.4 Cardiovascular Imaging**
+
+| Title | Venue | Date | Paper Link | Project Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03460v2) | ![Star](https://img.shields.io/github/stars/MengyunQ/CHeart.svg?style=social&label=Star) <br> [GitHub](https://github.com/MengyunQ/CHeart) |
+
+#### **1.5 Sonography / Ultrasound**
+
+| Title | Venue | Date | Paper Link | Project Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.13052v1) | ![Star](https://img.shields.io/github/stars/stytim/IVS.svg?style=social&label=Star) <br> [GitHub](https://github.com/stytim/IVS) |
+
+#### **1.6 Radiotherapy**
+
+| Title | Venue | Date | Paper Link | Project Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.17553v1) | Not Available |
+| **A feasibility study of automating radiotherapy planning with large language model agents** | Physics in Medicine & Biology | 2025 | [Paper](https://doi.org/10.1088/1361-6560/adbff1) | Not Available |
+
+#### **1.7 Dermatology**
+
+| Title | Venue | Date | Paper Link | Project Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **Conversational AI in health: Design considerations from a Wizard-of-Oz dermatology case study with users, clinicians and a medical LLM** | CSCW | 2024 | [Paper](https://dl.acm.org/doi/10.1145/3613905.3651891) | Not Available |
+
+##### **1.8 Genomics & Biomarker Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -276,7 +303,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework for Genetic Biomarker-Based Medical Diagnosis** | biorxiv | 2025 | [Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1) | ![Star](https://img.shields.io/github/stars/Ayanami-E/HEAL-KGGen.svg?style=social&label=Star) <br> [GitHub](https://github.com/Ayanami-E/HEAL-KGGen) |
 | **AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration** | medRxiv | 2024.12 | [Paper](https://www.medrxiv.org/content/10.1101/2024.12.19.24313396v1) | Not Available |
 
-##### **1.5 EHR & Clinical Note Agents**
+##### **1.9 EHR & Clinical Note Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -288,7 +315,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.13893v1) | Not Available |
 | **A multi-agent architecture for privacy-preserving natural language interaction with FHIR-based electronic health records** | IEEE JBHI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10721684/) | Not Available |
 
-##### **1.6 Mental Health & Counseling Agents**
+##### **1.10 Mental Health & Counseling Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -300,7 +327,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | Not Available |
 | **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | Not Available |
 
-##### **1.7 General Diagnosis & Reasoning Agents**
+##### **1.11 General Diagnosis & Reasoning Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
