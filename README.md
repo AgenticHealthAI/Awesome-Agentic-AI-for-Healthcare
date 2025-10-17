@@ -236,6 +236,7 @@ We will try to make this list updated. If you found any error or any missed pape
 11. [CIKM 2022] **Assertiveness-based agent communication for a personalized medicine on medical imaging diagnosis** [[paper]](https://dl.acm.org/doi/10.1145/3544548.3580682)
 12. [arxiv 2023.12] **Are we going mad? benchmarking multi-agent debate between language models for medical q\&a** [[paper]](http://arxiv.org/abs/2312.04123v1)
 
+
 ## Papers by Category
 
 ---
@@ -249,10 +250,10 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** | ACL | 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1298/) | ![Star](https://img.shields.io/github/stars/zzc-plus/MAM.svg?style=social&label=Star) <br> [GitHub](https://github.com/zzc-plus/MAM) |
+| **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** | ACL | 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1298/) | ![Star](https://img.shields.io/github/stars/yczhou001/MAM.svg?style=social&label=Star) <br> [GitHub](https://github.com/yczhou001/MAM) |
 | **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/OpenBMB/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/OpenBMB/MMedAgent) |
-| **AURA: A Multi-modal Medical Agent for Understanding, Reasoning & Annotation** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.16940v1) | ![Star](https://img.shields.io/github/stars/N-Fathi/AURA.svg?style=social&label=Star) <br> [GitHub](https://github.com/N-Fathi/AURA) |
-| **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.08 | [Paper](httphttp://arxiv.org/abs/2508.08998v1) | ![Star](https://img.shields.io/github/stars/Impersonation-dis/M3Builder.svg?style=social&label=Star) <br> [GitHub](https://github.com/Impersonation-dis/M3Builder) |
+| **AURA: A Multi-modal Medical Agent for Understanding, Reasoning & Annotation** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.16940v1) | ![Star](https://img.shields.io/github/stars/nimafathi/AURA.svg?style=social&label=Star) <br> [GitHub](https://github.com/nimafathi/AURA) |
+| **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.08998v1) | ![Star](https://img.shields.io/github/stars/MAGIC-AI4Med/M3Builder.svg?style=social&label=Star) <br> [GitHub](https://github.com/MAGIC-AI4Med/M3Builder) |
 | **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.11640v1) | ![Star](https://img.shields.io/github/stars/zzc-plus/I3-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/zzc-plus/I3-Agent) |
 | **A Multimodal Multi-Agent Framework for Radiology Report Generation** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.09787v1) | Not Available |
 | **A Multi-Agent System for Complex Reasoning in Radiology Visual Question Answering** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02841v1) | Not Available |
@@ -264,8 +265,8 @@ We will try to make this list updated. If you found any error or any missed pape
 | **CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.16229v1) | ![Star](https://img.shields.io/github/stars/YurenMao/CT-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/YurenMao/CT-Agent) |
 | **MedRAX: Medical reasoning agent for chest x-ray** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02673v2) | ![Star](https://img.shields.io/github/stars/bowang-lab/MedRAX.svg?style=social&label=Star) <br> [GitHub](https://github.com/bowang-lab/MedRAX) |
 | **AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.19322v1) | ![Star](https://img.shields.io/github/stars/L-M-Z/AT-CXR.svg?style=social&label=Star) <br> [GitHub](https://github.com/L-M-Z/AT-CXR) |
-| **PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.10501v1) | ![Star](https://img.shields.io/github/stars/VCLA-Vanderbilt/PASS.svg?style=social&label=Star) <br> [GitHub](https://github.com/VCLA-Vanderbilt/PASS) |
-| **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01807-8) | ![Star](https://img.shields.io/github/stars/zzhong-med/cta-llm-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/zzhong-med/cta-llm-agent) |
+| **PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.10501v1) | Not Available |
+| **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01807-8) | Not Available |
 | **Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.13892v1) | Not Available |
 
 ##### **1.3 Pathology Agents**
@@ -274,7 +275,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | :--- | :--- | :--- | :--- | :--- |
 | **CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.20510v1) | ![Star](https://img.shields.io/github/stars/superyuxuan/CPathAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/superyuxuan/CPathAgent) |
 | **Evidence-based diagnostic reasoning with multi-agent copilot for human pathology** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.20964v1) | ![Star](https://img.shields.io/github/stars/mahmoodlab/path-agents.svg?style=social&label=Star) <br> [GitHub](https://github.com/mahmoodlab/path-agents) |
-| **GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01293v1) | ![Star](https://img.shields.io/github/stars/Lam-Ngoc/GMAT.svg?style=social&label=Star) <br> [GitHub](https://github.com/Lam-Ngoc/GMAT) |
+| **GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01293v1) | Not Available |
 | **Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02258v1) | ![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG) |
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.19830v1) | ![Star](https://img.shields.io/github/stars/Awais000/Path-RAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/Awais000/Path-RAG) |
 | **Pathgen-1.6 m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02737v1) | Not Available |
@@ -283,9 +284,9 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **Geneagent: self-verification language agent for gene-set analysis using domain databases** | Nature Methods | 2025 | [Paper](https://doi.org/10.1038/s41592-025-02748-6) | ![Star](https://img.shields.io/github/stars/ncbi/GeneAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ncbi/GeneAgent) |
+| **Geneagent: self-verification language agent for gene-set analysis using domain databases** | Nature Methods | 2025 | [Paper](https://doi.org/10.1038/s41592-025-02748-6) | ![Star](https://img.shields.io/github/stars/ncbi-nlp/GeneAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ncbi-nlp/GeneAgent) |
 | **CRISPR-GPT for agentic automation of gene-editing experiments** | Nature BME | 2025 | [Paper](https://doi.org/10.1038/s41551-025-01463-z) | ![Star](https://img.shields.io/github/stars/Yuanhao-Qu/CRISPR-GPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/Yuanhao-Qu/CRISPR-GPT) |
-| **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework for Genetic Biomarker-Based Medical Diagnosis** | biorxiv | 2025 | [Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1) | Not Available |
+| **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework for Genetic Biomarker-Based Medical Diagnosis** | biorxiv | 2025 | [Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1) | ![Star](https://img.shields.io/github/stars/Ayanami-E/HEAL-KGGen.svg?style=social&label=Star) <br> [GitHub](https://github.com/Ayanami-E/HEAL-KGGen) |
 | **AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration** | medRxiv | 2024.12 | [Paper](https://www.medrxiv.org/content/10.1101/2024.12.19.24313396v1) | Not Available |
 
 ##### **1.5 EHR & Clinical Note Agents**
@@ -293,7 +294,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01940-4) | Not Available |
-| **Infherno: End-to-end agent-based FHIR resource synthesis from free-form clinical notes** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.12261v1) | Not Available |
+| **Infherno: End-to-end agent-based FHIR resource synthesis from free-form clinical notes** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.12261v1) | ![Star](https://img.shields.io/github/stars/j-frei/Infherno.svg?style=social&label=Star) <br> [GitHub](https://github.com/j-frei/Infherno) |
 | **Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.09019v1) | Not Available |
 | **Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.21803v1) | Not Available |
 | **Agent-Based Feature Generation from Clinical Notes for Outcome Prediction** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01956v1) | Not Available |
@@ -317,8 +318,8 @@ We will try to make this list updated. If you found any error or any missed pape
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **KERAP: A knowledge-enhanced reasoning approach for accurate zero-shot diagnosis prediction** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.02773v2) | ![Star](https://img.shields.io/github/stars/Xie-Yuzhang/KERAP.svg?style=social&label=Star) <br> [GitHub](https://github.com/Xie-Yuzhang/KERAP) |
-| **Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.03038v1) | Not Available |
-| **MDTeamGPT: A Self-Evolving LLM-Based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.13856v1) | ![Star](https://img.shields.io/github/stars/k-man-z/MDTeamGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/k-man-z/MDTeamGPT) |
+| **Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.03038v1) | ![Star](https://img.shields.io/github/stars/tsukiiiiiiiii/TOR.svg?style=social&label=Star) <br> [GitHub](https://github.com/tsukiiiiiiiii/TOR) |
+| **MDTeamGPT: A Self-Evolving LLM-Based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.13856v1) | ![Star](https://img.shields.io/github/stars/KaiChenNJ/MDTeamGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/KaiChenNJ/MDTeamGPT) |
 | **A Layered Debating Multi-Agent System for Similar Disease Diagnosis** | NAACL | 2025 | [Paper](https://aclanthology.org/2025.naacl-short.46/) | Not Available |
 | **An agentic system for rare disease diagnosis with traceable reasoning** | arXiv | 2025.06 | [Paper](https://arxiv.org/abs/2506.20430) | Not Available |
 | **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.09018v1) | Not Available |
@@ -330,7 +331,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **BioScientistAgent: Designing LLM-Biomedical Agents with KG-Augmented RL Reasoning Modules** | biorxiv | 2025.08 | [Paper](https://www.biorxiv.org/content/10.1101/2025.08.08.669291) | ![Star](https://img.shields.io/github/stars/zhandong/BioScientistAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/zhandong/BioScientistAgent) |
-| **TxAgent: An AI agent for therapeutic reasoning across a universe of tools** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.10970v1) | ![Star](https://img.shields.io/github/stars/mzitnik/TxAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/mzitnik/TxAgent) |
+| **TxAgent: An AI agent for therapeutic reasoning across a universe of tools** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.10970v1) | ![Star](https://img.shields.io/github/stars/mims-harvard/TxAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/mims-harvard/TxAgent) |
 | **RAG-Enhanced Collaborative LLM Agents for Drug Discovery** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.17506v2) | Not Available |
 | **Drugagent: Automating ai-aided drug discovery programming through llm multi-agent collaboration** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.11432v1) | ![Star](https://img.shields.io/github/stars/siyuan-li-2000/DrugAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/siyuan-li-2000/DrugAgent) |
 | **TrialGenie: Empowering Clinical Trial Design with Agentic Intelligence and Real World Data** | medRxiv | 2025.04 | [Paper](https://www.medrxiv.org/content/10.1101/2025.04.17.25326033) | Not Available |
@@ -364,8 +365,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.14654v2) | ![Star](https://img.shields.io/github/stars/project-eval/MedAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/project-eval/MedAgentBench) |
-| **MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.07459v2) | ![Star](https://img.shields.io/github/stars/gao-lab/MedAgentsBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/gao-lab/MedAgentsBench) |
+| **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.14654v2) | ![Star](https://img.shields.io/github/stars/stanfordmlgroup/MedAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/stanfordmlgroup/MedAgentBench) |
+| **MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.07459v2) | ![Star](https://img.shields.io/github/stars/gersteinlab/medagents-benchmark.svg?style=social&label=Star) <br> [GitHub](https://github.com/gersteinlab/medagents-benchmark) |
 | **MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.12371v1) | ![Star](https://img.shields.io/github/stars/GAIR-NLP/MedAgentBoard.svg?style=social&label=Star) <br> [GitHub](https://github.com/GAIR-NLP/MedAgentBoard) |
 | **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.18513v1) | ![Star](https://img.shields.io/github/stars/Agent-Clinic/AgentClinic.svg?style=social&label=Star) <br> [GitHub](https://github.com/Agent-Clinic/AgentClinic) |
 | **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | ![Star](https://img.shields.io/github/stars/junkai-li/Agent-Hospital.svg?style=social&label=Star) <br> [GitHub](https://github.com/junkai-li/Agent-Hospital) |
@@ -374,7 +375,6 @@ We will try to make this list updated. If you found any error or any missed pape
 | **GREEN: Generative Radiology Report Evaluation and Error Notation** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.03695v1) | ![Star](https://img.shields.io/github/stars/sophiest/GREEN.svg?style=social&label=Star) <br> [GitHub](https://github.com/sophiest/GREEN) |
 | **ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.03696v1) | [Project Page](https://rexrank.grand-challenge.org/) |
 | **RadEvalX: Radiology Report Generation Models Evaluation Dataset** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.03694v1) | [Project Page](https://physionet.org/content/radevalx/1.0.0/) |
-
 ## Acknowledgement
 
 This page is contributed and maintained by a collaborative effort.
