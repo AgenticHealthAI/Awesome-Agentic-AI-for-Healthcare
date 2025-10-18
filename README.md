@@ -2,7 +2,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository is a curated list of research papers, projects, and resources related to the application of **agentic AI for healthcare**. Agentic AI refers to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
+This repository is a curated list of research papers, projects, and resources related to the application of **agentic AI for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. Agentic AI refers to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
@@ -26,9 +26,9 @@ We will try to make this list updated. If you found any error or any missed pape
     - [1.9 EHR & Clinical Note Agents](#19-ehr--clinical-note-agents)
     - [1.10 Mental Health & Counseling Agents](#110-mental-health--counseling-agents)
     - [1.11 General Diagnosis & Reasoning Agents](#111-general-diagnosis--reasoning-agents)
-  - [2. Drug Discovery & Development](#2-drug-discovery--development)
-  - [3. Healthcare Administration & Workflow](#3-healthcare-administration--workflow)
-  - [4. Patient-Facing Applications](#4-patient-facing-applications)
+  - [2. Patient-Facing Applications](#2-patient-facing-applications)
+  - [3. Drug Discovery & Development](#3-drug-discovery--development)
+  - [4. Healthcare Administration & Workflow](#4-healthcare-administration--workflow)
   - [5. Datasets & Benchmarks](#5-datasets--benchmarks)
 ---
 
@@ -353,7 +353,19 @@ We will try to make this list updated. If you found any error or any missed pape
 | **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.16833v4) | Not Available |
 | **Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics** | arXiv | 2024.10 | [Paper](http://arxiv.org/abs/2410.02026v1) | Not Available |
 
-## **2. Drug Discovery & Development**
+
+## **2. Patient-Facing Applications**
+
+| Title | Venue | Date | Paper Link | Project Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1) | [huggingface](https://huggingface.co/VaxGuide) |
+| **Conversational health agents: a personalized large language model-powered agent framework** | JAMIA Open | 2024 | [Paper](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991) | ![Star](https://img.shields.io/github/stars/Institute4FutureHealth/CHA.svg?style=social&label=Star) <br> [GitHub](https://github.com/Institute4FutureHealth/CHA) |
+| **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** | arXiv | 2023.9 | [Paper](https://arxiv.org/abs/2309.09357) | Not Available |
+| **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024 | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available |
+| **A general-purpose AI avatar in healthcare** | arXiv | 2024.01 | [Paper](http://arxiv.org/abs/2401.12981v1) | Not Available |
+| **A two-stage proactive dialogue generator for efficient clinical information collection** | Expert Systems with Applications | 2025 | [Paper](https://doi.org/10.1016/j.eswa.2025.127833) | Not Available |
+
+## **3. Drug Discovery & Development**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -365,7 +377,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.04293v1) | Not Available |
 | **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models** | npj Digital Medicine | 2024.01 | [Paper](https://www.nature.com/articles/s41746-024-01274-7) | Not Available |
 
-## **3. Healthcare Administration & Workflow**
+## **4. Healthcare Administration & Workflow**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -376,17 +388,6 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Operating room workflow analysis via reasoning segmentation over digital twins** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.21054v1) | Not Available |
 | **IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery** | arXiv | 2024.10 | [Paper](http://arxiv.org/abs/2410.12868v1) | ![Star](https://img.shields.io/github/stars/uheal/imas.svg?style=social&label=Star) <br> [GitHub](https://github.com/uheal/imas) |
 | **Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.18511v1) | Not Available |
-
-## **4. Patient-Facing Applications**
-
-| Title | Venue | Date | Paper Link | Project Page |
-| :--- | :--- | :--- | :--- | :--- |
-| **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1) | [huggingface](https://huggingface.co/VaxGuide) |
-| **Conversational health agents: a personalized large language model-powered agent framework** | JAMIA Open | 2024 | [Paper](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991) | ![Star](https://img.shields.io/github/stars/Institute4FutureHealth/CHA.svg?style=social&label=Star) <br> [GitHub](https://github.com/Institute4FutureHealth/CHA) |
-| **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** | arXiv | 2023.9 | [Paper](https://arxiv.org/abs/2309.09357) | Not Available |
-| **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024 | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available |
-| **A general-purpose AI avatar in healthcare** | arXiv | 2024.01 | [Paper](http://arxiv.org/abs/2401.12981v1) | Not Available |
-| **A two-stage proactive dialogue generator for efficient clinical information collection** | Expert Systems with Applications | 2025 | [Paper](https://doi.org/10.1016/j.eswa.2025.127833) | Not Available |
 
 ## **5. Datasets & Benchmarks**
 
