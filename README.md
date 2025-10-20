@@ -18,20 +18,21 @@ We will try to make this list updated. If you found any error or any missed pape
     - [1.1 Multi-Modal Agents](#11-multi-modal-agents)
     - [1.2 Radiology Agents (CT, X-ray, etc.)](#12-radiology-agents-ct-x-ray-etc)
     - [1.3 Pathology Agents](#13-pathology-agents)
-    - [1.4 Cardiovascular Imaging](#14-cardiovascular-imaging)
-    - [1.5 Sonography / Ultrasound](#15-sonography--ultrasound)
-    - [1.6 Radiotherapy](#16-radiotherapy)
-    - [1.7 Dermatology](#17-dermatology)
-    - [1.8 Genomics & Biomarker Agents](#18-genomics--biomarker-agents)
-    - [1.9 EHR & Clinical Note Agents](#19-ehr--clinical-note-agents)
-    - [1.10 Reasoning & Multi Agents](#110-reasoning--multi-agents)
+    - [1.4 Cardiovascular Imaging Agents](#14-cardiovascular-imaging)
+    - [1.5 Sonography / Ultrasound Agents](#15-sonography--ultrasound)
+    - [1.6 Radiotherapy Agents](#16-radiotherapy)
+    - [1.7 Dermatology Agents](#17-dermatology)
+    - [1.8 Dental Agents](#18-dental-agents)
+    - [1.9 Genomics & Biomarker Agents](#19-genomics--biomarker-agents)
+    - [1.10 EHR & Clinical Note Agents](#110-ehr--clinical-note-agents)
+    - [1.11 Reasoning & Multi Agents](#111-reasoning--multi-agents)
   - [2. Patient-Facing Applications](#2-patient-facing-applications)
     - [2.1 Mental Health & CBT Agents](#21-mental-health--cbt-agents)
     - [2.2 Clinical Communication & Intake Agents](#22-clinical-communication--intake-agents)
     - [2.3 Screening & Personalized Care Agents](#23-screening--personalized-care-agents)
     - [2.4 General-purpose Healthcare Avatars](#24-general-purpose-healthcare-avatars)
-  - [3. Drug Discovery & Development](#3-drug-discovery--development)
-  - [4. Healthcare Administration & Workflow](#4-healthcare-administration--workflow)
+  - [3. Drug Discovery & Development Agents](#3-drug-discovery--development)
+  - [4. Healthcare Administration & Workflow Agents](#4-healthcare-administration--workflow)
   - [5. Datasets & Benchmarks](#5-datasets--benchmarks)
 ---
 
@@ -289,6 +290,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Evidence-based diagnostic reasoning with multi-agent copilot for human pathology** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.20964v1) | Not Available |
 | **CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.20510v1) | Not Available |
 | **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** | arXiv | 2025.02 | [Paper](https://arxiv.org/abs/2502.08916) | [project](https://pathfinder-dx.github.io/) |
+| **WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis** | MICCAI (Oral) | 2025 | [Paper](https://arxiv.org/abs/2507.14680) | ![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-Agents.svg?style=social&label=Star) <br> [GitHub](https://github.com/XinhengLyu/WSI-Agents) |
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | MLHS | 2025 | [Paper](https://proceedings.mlr.press/v259/naeem25a.html) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag) |
 | **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | ICLR (Oral) | 2024.07 | [Paper](https://arxiv.org/abs/2407.00203) | ![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star) <br> [GitHub](https://github.com/PathFoundation/PathGen-1.6M) |
 
@@ -296,7 +298,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03460v2) | ![Star](https://img.shields.io/github/stars/MengyunQ/CHeart.svg?style=social&label=Star) <br> [GitHub](https://github.com/MengyunQ/CHeart) |
+| **Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis** | MICCAI | 2025.07 | [Paper](http://arxiv.org/abs/2507.03460v2) | ![Star](https://img.shields.io/github/stars/MengyunQ/MESHAgents.svg?style=social&label=Star) <br> [GitHub](https://github.com/MengyunQ/MESHAgents) |
 
 ### **1.5 Sonography / Ultrasound**
 
@@ -317,7 +319,13 @@ We will try to make this list updated. If you found any error or any missed pape
 | :--- | :--- | :--- | :--- | :--- |
 | **Conversational AI in health: Design considerations from a Wizard-of-Oz dermatology case study with users, clinicians and a medical LLM** | CHI 'EA | 2024 | [Paper](https://dl.acm.org/doi/10.1145/3613905.3651891) | Not Available |
 
-### **1.8 Genomics & Biomarker Agents**
+### **1.8 Dental Agents**
+
+| Title | Venue | Date | Paper Link | Project Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **DentEval: Fine-tuning-Free Expert-Aligned Assessment in Dental Education via LLM Agents** | MICCAI | 2025 | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_14) | ![Star](https://img.shields.io/github/stars/DXY0711/DentEval.svg?style=social&label=Star) <br> [GitHub](https://github.com/DXY0711/DentEval) |
+
+### **1.9 Genomics & Biomarker Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -326,7 +334,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework for Genetic Biomarker-Based Medical Diagnosis** | biorxiv | 2025 | [Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1) | ![Star](https://img.shields.io/github/stars/Ayanami-E/HEAL-KGGen.svg?style=social&label=Star) <br> [GitHub](https://github.com/Ayanami-E/HEAL-KGGen) |
 | **AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration** | Bioinformatics | 2024.12 | [Paper](https://academic.oup.com/bioinformatics/article/41/7/btaf359/8169327) | ![Star](https://img.shields.io/github/stars/Velazquez-Villarreal-Lab/AI-HOPE.svg?style=social&label=Star) <br> [GitHub](https://github.com/Velazquez-Villarreal-Lab/AI-HOPE)  |
 
-### **1.9 EHR & Clinical Note Agents**
+### **1.10 EHR & Clinical Note Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -338,7 +346,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** | KDD'24 Workshop | 2024.06 | [Paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/487318240/EHRFlow_WU_DOA28062024_VOR_CC-BY.pdf) | ![Star](https://img.shields.io/github/stars/PKU-AICare/EHRFlow.svg?style=social&label=Star) <br> [GitHub](https://github.com/PKU-AICare/EHRFlow)  |
 | **A multi-agent architecture for privacy-preserving natural language interaction with FHIR-based electronic health records** | IEEE SoftCOM | 2024 | [Paper](https://ieeexplore.ieee.org/document/10721684/) | Not Available |
 
-### **1.10 Reasoning & Multi Agents**
+### **1.11 Reasoning & Multi Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
