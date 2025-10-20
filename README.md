@@ -343,9 +343,9 @@ We will try to make this list updated. If you found any error or any missed pape
 | **MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue** | ICML workshop | 2025.02 | [Paper](https://arxiv.org/abs/2502.19860) | ![Star](https://img.shields.io/github/stars/leoliu0618/mind-therapy-app.svg?style=social&label=Star) <br> [GitHub Reproduce](https://github.com/leoliu0618/mind-therapy-app)  |
 | **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02807v1) | ![Star](https://img.shields.io/github/stars/IzzetYoung/CAMI.svg?style=social&label=Star) <br> [GitHub](https://github.com/IzzetYoung/CAMI)  |
 | **Autocbt: An autonomous multi-agent framework for cognitive behavioral therapy in psychological counseling** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.09426v1) | Not Available |
-| **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02736v1) | ![Star](https://img.shields.io/github/stars/jennylee03/MentalAgora.svg?style=social&label=Star) <br> [GitHub](https://github.com/jennylee03/MentalAgora)  |
-| **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | ![Star](https://img.shields.io/github/stars/coding-groot/cactus.svg?style=social&label=Star) <br> [GitHub](https://github.com/coding-groot/cactus) |
 | **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | ![Star](https://img.shields.io/github/stars/LYiHub/psydraw.svg?style=social&label=Star) <br> [GitHub](https://github.com/LYiHub/psydraw)  |
+| **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02736v1) | ![Star](https://img.shields.io/github/stars/jennylee03/MentalAgora.svg?style=social&label=Star) <br> [GitHub](https://github.com/jennylee03/MentalAgora)  |
+| **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | EMNLP Findings | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | ![Star](https://img.shields.io/github/stars/coding-groot/cactus.svg?style=social&label=Star) <br> [GitHub](https://github.com/coding-groot/cactus) |
 
 ### **1.11 Reasoning & Multi Agents**
 
@@ -367,48 +367,48 @@ We will try to make this list updated. If you found any error or any missed pape
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1) | [huggingface](https://huggingface.co/VaxGuide) |
+| **A two-stage proactive dialogue generator for efficient clinical information collection** | Expert Systems with Applications | 2025 | [Paper](https://doi.org/10.1016/j.eswa.2025.127833) | Not Available |
 | **Conversational health agents: a personalized large language model-powered agent framework** | JAMIA Open | 2024 | [Paper](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991) | ![Star](https://img.shields.io/github/stars/Institute4FutureHealth/CHA.svg?style=social&label=Star) <br> [GitHub](https://github.com/Institute4FutureHealth/CHA) |
-| **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** | arXiv | 2023.9 | [Paper](https://arxiv.org/abs/2309.09357) | Not Available |
 | **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024 | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available |
 | **A general-purpose AI avatar in healthcare** | arXiv | 2024.01 | [Paper](http://arxiv.org/abs/2401.12981v1) | Not Available |
-| **A two-stage proactive dialogue generator for efficient clinical information collection** | Expert Systems with Applications | 2025 | [Paper](https://doi.org/10.1016/j.eswa.2025.127833) | Not Available |
+| **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** | arXiv | 2023.9 | [Paper](https://arxiv.org/abs/2309.09357) | Not Available |
 
 ## **3. Drug Discovery & Development**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **BioScientistAgent: Designing LLM-Biomedical Agents with KG-Augmented RL Reasoning Modules** | biorxiv | 2025.08 | [Paper](https://www.biorxiv.org/content/10.1101/2025.08.08.669291) | Not Available |
-| **TxAgent: An AI agent for therapeutic reasoning across a universe of tools** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.10970v1) | ![Star](https://img.shields.io/github/stars/mims-harvard/TxAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/mims-harvard/TxAgent) |
 | **RAG-Enhanced Collaborative LLM Agents for Drug Discovery** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.17506v2) | Not Available |
 | **Large Language Model Agent for Modular Task Execution in Drug Discovery** | arXiv | 2025.07 | [Paper](https://arxiv.org/abs/2507.02925) | ![Star](https://img.shields.io/github/stars/hoon-ock/AgentD.svg?style=social&label=Star) <br> [GitHub](https://github.com/hoon-ock/AgentD)  |
+| **AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.04293v1) | ![Star](https://img.shields.io/github/stars/lclarice/autoct.svg?style=social&label=Star) <br> [GitHub](https://github.com/lclarice/autoct) |
 | **Drugagent: Automating ai-aided drug discovery programming through llm multi-agent collaboration** | AAAI 2025 workshop AI4Research | 2024.05 | [Paper](https://arxiv.org/abs/2411.15692) |  ![Star](https://img.shields.io/github/stars/FermiQ/drugagent.svg?style=social&label=Star) <br> [GitHub](https://github.com/FermiQ/drugagent)  |
 | **TrialGenie: Empowering Clinical Trial Design with Agentic Intelligence and Real World Data** | medRxiv | 2025.04 | [Paper](https://www.medrxiv.org/content/10.1101/2025.04.17.25326033) | Not Available |
-| **AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.04293v1) | ![Star](https://img.shields.io/github/stars/lclarice/autoct.svg?style=social&label=Star) <br> [GitHub](https://github.com/lclarice/autoct) |
+| **TxAgent: An AI agent for therapeutic reasoning across a universe of tools** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.10970v1) | ![Star](https://img.shields.io/github/stars/mims-harvard/TxAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/mims-harvard/TxAgent) |
 | **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models** | npj Digital Medicine | 2024.01 | [Paper](https://www.nature.com/articles/s41746-024-01274-7) | Not Available |
 
 ## **4. Healthcare Administration & Workflow**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **MedScrubCrew: A Medical Multi-Agent Framework for Automating Appointment Scheduling** | Healthcare (Basel) | 2025 | [Paper](https://doi.org/10.3390/healthcare13141649) | Not Available |
 | **Code Like Humans: A Multi-Agent Solution for Medical Coding** | arXiv | 2025.09 | [Paper](http://arxiv.org/abs/2509.05378v1) | Not Available |
-| **Exploring llm multi-agents for icd coding** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.15363v2) | Not Available |
 | **Resilient Multi-Agent Negotiation for Medical Supply Chains: Integrating LLMs and Blockchain** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.17134v1) | Not Available |
-| **Operating room workflow analysis via reasoning segmentation over digital twins** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.21054v1) | Not Available |
-| **IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery** | arXiv | 2024.10 | [Paper](http://arxiv.org/abs/2410.12868v1) | ![Star](https://img.shields.io/github/stars/uheal/imas.svg?style=social&label=Star) <br> [GitHub](https://github.com/uheal/imas) |
 | **Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.18511v1) | Not Available |
+| **Operating room workflow analysis via reasoning segmentation over digital twins** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.21054v1) | Not Available |
+| **MedScrubCrew: A Medical Multi-Agent Framework for Automating Appointment Scheduling** | Healthcare (Basel) | 2025 | [Paper](https://doi.org/10.3390/healthcare13141649) | Not Available |
+| **IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery** | arXiv | 2024.10 | [Paper](http://arxiv.org/abs/2410.12868v1) | ![Star](https://img.shields.io/github/stars/uheal/imas.svg?style=social&label=Star) <br> [GitHub](https://github.com/uheal/imas) |
+| **Exploring llm multi-agents for icd coding** | arXiv | 2024.06 | [Paper](http://arxiv.org/abs/2406.15363v2) | Not Available |
 
 ## **5. Datasets & Benchmarks**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.14654v2) | ![Star](https://img.shields.io/github/stars/stanfordmlgroup/MedAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/stanfordmlgroup/MedAgentBench) |
-| **MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.07459v2) | ![Star](https://img.shields.io/github/stars/gersteinlab/medagents-benchmark.svg?style=social&label=Star) <br> [GitHub](https://github.com/gersteinlab/medagents-benchmark) |
 | **MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.12371v1) | ![Star](https://img.shields.io/github/stars/yhzhu99/MedAgentBoard.svg?style=social&label=Star) <br> [GitHub](https://github.com/yhzhu99/MedAgentBoard) |
-| **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments** | arXiv | 2024.05 | [Paper](https://arxiv.org/abs/2405.07960) | ![Star](https://img.shields.io/github/stars/samuelschmidgall/agentclinic.svg?style=social&label=Star) <br> [GitHub](https://github.com/samuelschmidgall/agentclinic) |
-| **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | ![Star](https://img.shields.io/github/stars/wisdom-pan/Agent_Hospital.svg?style=social&label=Star) <br> [GitHub](https://github.com/wisdom-pan/Agent_Hospital)  |
+| **MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.07459v2) | ![Star](https://img.shields.io/github/stars/gersteinlab/medagents-benchmark.svg?style=social&label=Star) <br> [GitHub](https://github.com/gersteinlab/medagents-benchmark) |
+| **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.14654v2) | ![Star](https://img.shields.io/github/stars/stanfordmlgroup/MedAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/stanfordmlgroup/MedAgentBench) |
 | **CliBench: A Multifaceted and Multigranular Evaluation of Clinical Diagnosis with LLMs** | arXiv | 2024.06 | [Paper](https://arxiv.org/abs/2406.09923) | ![Star](https://img.shields.io/github/stars/clibench/clibench.svg?style=social&label=Star) <br> [GitHub](https://github.com/clibench/clibench) |
 | **MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning** | arXiv | 2024.06 | [Paper](https://arxiv.org/abs/2406.00922) | ![Star](https://img.shields.io/github/stars/stellalisy/mediQ.svg?style=social&label=Star) <br> [GitHub](https://github.com/stellalisy/mediQ) |
+| **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments** | arXiv | 2024.05 | [Paper](https://arxiv.org/abs/2405.07960) | ![Star](https://img.shields.io/github/stars/samuelschmidgall/agentclinic.svg?style=social&label=Star) <br> [GitHub](https://github.com/samuelschmidgall/agentclinic) |
+| **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | ![Star](https://img.shields.io/github/stars/wisdom-pan/Agent_Hospital.svg?style=social&label=Star) <br> [GitHub](https://github.com/wisdom-pan/Agent_Hospital)  |
 
 
 # Acknowledgement
