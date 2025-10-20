@@ -232,13 +232,14 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Year 2023
 
 1.  [NeurIPS workshop 2023] **Are we going mad? benchmarking multi-agent debate between language models for medical q\&a** [[paper]](https://openreview.net/forum?id=Bfr0m4Ucl6)
-2.  [arxiv 2023.9] **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** [[paper]](https://arxiv.org/abs/2309.09357)
-3.  [arxiv 2023.7] **Understanding the benefits and challenges of using large language model-based conversational agents for mental well-being support** [[paper]](http://arxiv.org/abs/2307.15810v1)
-4.  [arxiv 2023.3] **DERA: enhancing large language model completions with dialog-enabled resolving agents** [[paper]](http://arxiv.org/abs/2303.17071v1) [[dataset]](https://github.com/curai/curai-research/tree/main/DERA)
-5.  [JMIR] **The ChatGPT (generative artificial intelligence) revolution has made artificial intelligence approachable for medical professionals** [[paper]](https://doi.org/10.2196/48392)
-6.  [JMIR] **Automated monitoring of adherence to evidenced-based clinical guideline recommendations: design and implementation study** [[paper]](https://www.jmir.org/2023/1/e41177/)
-7.  [JMIR Med Educ 2023] **Using ChatGPT for clinical practice and medical education: cross-sectional survey of medical students’ and physicians’ perceptions** [[paper]]([https://mededu.jmir.org/2023/1/e48336](https://mededu.jmir.org/2023/1/e50658/))
-8.  [CHI 2023] **Assertiveness-based agent communication for a personalized medicine on medical imaging diagnosis** [[paper]](https://dl.acm.org/doi/10.1145/3544548.3580682)
+2.  [arxiv 2023.1] **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** [[paper]](https://arxiv.org/abs/2309.09357)
+3.  [arxiv 2023.9] **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** [[paper]](https://arxiv.org/abs/2309.09357)
+4.  [arxiv 2023.7] **Understanding the benefits and challenges of using large language model-based conversational agents for mental well-being support** [[paper]](http://arxiv.org/abs/2307.15810v1)
+5.  [arxiv 2023.3] **DERA: enhancing large language model completions with dialog-enabled resolving agents** [[paper]](http://arxiv.org/abs/2303.17071v1) [[dataset]](https://github.com/curai/curai-research/tree/main/DERA)
+6.  [JMIR] **The ChatGPT (generative artificial intelligence) revolution has made artificial intelligence approachable for medical professionals** [[paper]](https://doi.org/10.2196/48392)
+7.  [JMIR] **Automated monitoring of adherence to evidenced-based clinical guideline recommendations: design and implementation study** [[paper]](https://www.jmir.org/2023/1/e41177/)
+8.  [JMIR Med Educ 2023] **Using ChatGPT for clinical practice and medical education: cross-sectional survey of medical students’ and physicians’ perceptions** [[paper]]([https://mededu.jmir.org/2023/1/e48336](https://mededu.jmir.org/2023/1/e50658/))
+9.  [CHI 2023] **Assertiveness-based agent communication for a personalized medicine on medical imaging diagnosis** [[paper]](https://dl.acm.org/doi/10.1145/3544548.3580682)
 
 
 
@@ -258,6 +259,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.02 | [Paper](https://arxiv.org/abs/2502.20301) | ![Star](https://img.shields.io/github/stars/MAGIC-AI4Med/M3Builder?style=social&label=Star) <br> [GitHub](https://github.com/MAGIC-AI4Med/M3Builder) |
 | **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** | ACL | 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1298/) | ![Star](https://img.shields.io/github/stars/yczhou001/MAM.svg?style=social&label=Star) <br> [GitHub](https://github.com/yczhou001/MAM) |
 | **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wangyixinxin/MMedAgent) |
+
 
 ### **1.2 Radiology Agents (CT, X-ray, etc.)**
 
@@ -341,18 +343,20 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | Not Available |
 | **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | Not Available |
 
-### **1.11 General Diagnosis & Reasoning Agents**
+### **1.11 Reasoning & Multi Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **KERAP: A knowledge-enhanced reasoning approach for accurate zero-shot diagnosis prediction** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.02773v2) | ![Star](https://img.shields.io/github/stars/constantjxyz/KERAP.svg?style=social&label=Star) <br> [GitHub](https://github.com/constantjxyz/KERAP) |
+
+| **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** | arXiv | 2025.08 | [Paper](https://arxiv.org/abs/2508.04915) | Not Available |
 | **Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.03038v1) | ![Star](https://img.shields.io/github/stars/tsukiiiiiiiii/TOR.svg?style=social&label=Star) <br> [GitHub](https://github.com/tsukiiiiiiiii/TOR) |
+| **KERAP: A knowledge-enhanced reasoning approach for accurate zero-shot diagnosis prediction** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.02773v2) | ![Star](https://img.shields.io/github/stars/constantjxyz/KERAP.svg?style=social&label=Star) <br> [GitHub](https://github.com/constantjxyz/KERAP) |
+| **An agentic system for rare disease diagnosis with traceable reasoning** | arXiv | 2025.06 | [Paper](https://arxiv.org/abs/2506.20430) | [[demo]](https://raredx.cn/doctor#/) |
 | **MDTeamGPT: A Self-Evolving LLM-Based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.13856v1) | ![Star](https://img.shields.io/github/stars/KaiChenNJ/MDTeamGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/KaiChenNJ/MDTeamGPT) |
 | **A Layered Debating Multi-Agent System for Similar Disease Diagnosis** | NAACL | 2025 | [Paper](https://aclanthology.org/2025.naacl-short.46/) | Not Available |
-| **An agentic system for rare disease diagnosis with traceable reasoning** | arXiv | 2025.06 | [Paper](https://arxiv.org/abs/2506.20430) | [[demo]](https://raredx.cn/doctor#/) |
-| **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** | arXiv | 2025.08 | [Paper](https://arxiv.org/abs/2508.04915) | Not Available |
 | **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.16833v4) | Not Available |
 | **Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics** | arXiv | 2024.10 | [Paper](http://arxiv.org/abs/2410.02026v1) | Not Available |
+| **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** | ACL 2024 Findings | 2023.11 | [Paper](https://arxiv.org/abs/2311.10537) | ![Star](https://img.shields.io/github/stars/gersteinlab/MedAgents.svg?style=social&label=Star) <br> [GitHub](https://github.com/gersteinlab/MedAgents) |
 
 
 ## **2. Patient-Facing Applications**
