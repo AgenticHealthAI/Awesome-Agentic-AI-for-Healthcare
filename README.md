@@ -24,9 +24,12 @@ We will try to make this list updated. If you found any error or any missed pape
     - [1.7 Dermatology](#17-dermatology)
     - [1.8 Genomics & Biomarker Agents](#18-genomics--biomarker-agents)
     - [1.9 EHR & Clinical Note Agents](#19-ehr--clinical-note-agents)
-    - [1.10 Mental Health & Counseling Agents](#110-mental-health--counseling-agents)
-    - [1.11 Reasoning & Multi Agents](#111-reasoning--multi-agents)
+    - [1.10 Reasoning & Multi Agents](#110-reasoning--multi-agents)
   - [2. Patient-Facing Applications](#2-patient-facing-applications)
+    - [2.1 Mental Health & CBT Agents](#21-mental-health--cbt-agents)
+    - [2.2 Clinical Communication & Intake Agents](#22-clinical-communication--intake-agents)
+    - [2.3 Screening & Personalized Care Agents](#23-screening--personalized-care-agents)
+    - [2.4 General-purpose Healthcare Avatars](#24-general-purpose-healthcare-avatars)
   - [3. Drug Discovery & Development](#3-drug-discovery--development)
   - [4. Healthcare Administration & Workflow](#4-healthcare-administration--workflow)
   - [5. Datasets & Benchmarks](#5-datasets--benchmarks)
@@ -335,19 +338,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** | KDD'24 Workshop | 2024.06 | [Paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/487318240/EHRFlow_WU_DOA28062024_VOR_CC-BY.pdf) | ![Star](https://img.shields.io/github/stars/PKU-AICare/EHRFlow.svg?style=social&label=Star) <br> [GitHub](https://github.com/PKU-AICare/EHRFlow)  |
 | **A multi-agent architecture for privacy-preserving natural language interaction with FHIR-based electronic health records** | IEEE SoftCOM | 2024 | [Paper](https://ieeexplore.ieee.org/document/10721684/) | Not Available |
 
-### **1.10 Mental Health & Counseling Agents**
-
-| Title | Venue | Date | Paper Link | Project Page |
-| :--- | :--- | :--- | :--- | :--- |
-| **VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.03520v1) | Not Available |
-| **MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue** | ICML workshop | 2025.02 | [Paper](https://arxiv.org/abs/2502.19860) | ![Star](https://img.shields.io/github/stars/leoliu0618/mind-therapy-app.svg?style=social&label=Star) <br> [GitHub Reproduce](https://github.com/leoliu0618/mind-therapy-app)  |
-| **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02807v1) | ![Star](https://img.shields.io/github/stars/IzzetYoung/CAMI.svg?style=social&label=Star) <br> [GitHub](https://github.com/IzzetYoung/CAMI)  |
-| **Autocbt: An autonomous multi-agent framework for cognitive behavioral therapy in psychological counseling** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.09426v1) | Not Available |
-| **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | ![Star](https://img.shields.io/github/stars/LYiHub/psydraw.svg?style=social&label=Star) <br> [GitHub](https://github.com/LYiHub/psydraw)  |
-| **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02736v1) | ![Star](https://img.shields.io/github/stars/jennylee03/MentalAgora.svg?style=social&label=Star) <br> [GitHub](https://github.com/jennylee03/MentalAgora)  |
-| **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | EMNLP Findings | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | ![Star](https://img.shields.io/github/stars/coding-groot/cactus.svg?style=social&label=Star) <br> [GitHub](https://github.com/coding-groot/cactus) |
-
-### **1.11 Reasoning & Multi Agents**
+### **1.10 Reasoning & Multi Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -364,14 +355,42 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## **2. Patient-Facing Applications**
 
-| Title | Venue | Date | Paper Link | Project Page |
-| :--- | :--- | :--- | :--- | :--- |
-| **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1) | [huggingface](https://huggingface.co/VaxGuide) |
-| **A two-stage proactive dialogue generator for efficient clinical information collection** | Expert Systems with Applications | 2025 | [Paper](https://doi.org/10.1016/j.eswa.2025.127833) | Not Available |
-| **Conversational health agents: a personalized large language model-powered agent framework** | JAMIA Open | 2024 | [Paper](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991) | ![Star](https://img.shields.io/github/stars/Institute4FutureHealth/CHA.svg?style=social&label=Star) <br> [GitHub](https://github.com/Institute4FutureHealth/CHA) |
-| **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024 | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available |
+### **2.1 Mental Health & CBT Agents**
+
+| Title                                                                                                             | Venue          | Date    | Paper Link                                 | Project Page                                                                                                                                                                  |
+| :---------------------------------------------------------------------------------------------------------------- | :------------- | :------ | :----------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety** | arXiv          | 2025.06 | [Paper](http://arxiv.org/abs/2506.03520v1) | Not Available                                                                                                                                                                 |
+| **MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue**                                 | ICML workshop  | 2025.02 | [Paper](https://arxiv.org/abs/2502.19860)  | ![Star](https://img.shields.io/github/stars/leoliu0618/mind-therapy-app.svg?style=social\&label=Star) <br> [GitHub Reproduce](https://github.com/leoliu0618/mind-therapy-app) |
+| **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration**    | arXiv          | 2025.02 | [Paper](http://arxiv.org/abs/2502.02807v1) | ![Star](https://img.shields.io/github/stars/IzzetYoung/CAMI.svg?style=social\&label=Star) <br> [GitHub](https://github.com/IzzetYoung/CAMI)                                   |
+| **Autocbt: An autonomous multi-agent framework for cognitive behavioral therapy in psychological counseling**     | arXiv          | 2025.01 | [Paper](http://arxiv.org/abs/2501.09426v1) | Not Available                                                                                                                                                                 |
+| **Cactus: Towards psychological counseling conversations using cognitive behavioral theory**                      | EMNLP Findings | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | ![Star](https://img.shields.io/github/stars/coding-groot/cactus.svg?style=social\&label=Star) <br> [GitHub](https://github.com/coding-groot/cactus)                           |
+| **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating**            | arXiv          | 2024.07 | [Paper](http://arxiv.org/abs/2407.02736v1) | ![Star](https://img.shields.io/github/stars/jennylee03/MentalAgora.svg?style=social\&label=Star) <br> [GitHub](https://github.com/jennylee03/MentalAgora)                     |
+| **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**                  | arXiv          | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | ![Star](https://img.shields.io/github/stars/LYiHub/psydraw.svg?style=social\&label=Star) <br> [GitHub](https://github.com/LYiHub/psydraw)                                     |
+
+
+### **2.2 Clinical Communication & Intake Agents**
+
+| Title                                                                                             | Venue                            | Date   | Paper Link                                                              | Project Page                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------ | :------------------------------- | :----- | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A two-stage proactive dialogue generator for efficient clinical information collection**        | Expert Systems with Applications | 2025   | [Paper](https://doi.org/10.1016/j.eswa.2025.127833)                     | Not Available                                                                                                                                                     |
+| **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** | arXiv                            | 2023.9 | [Paper](https://arxiv.org/abs/2309.09357)                               | Not Available                                                                                                                                                     |
+| **Conversational health agents: a personalized large language model-powered agent framework**     | JAMIA Open                       | 2024   | [Paper](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991) | ![Star](https://img.shields.io/github/stars/Institute4FutureHealth/CHA.svg?style=social\&label=Star) <br> [GitHub](https://github.com/Institute4FutureHealth/CHA) |
+
+
+### **2.3 Screening & Personalized Care Agents**
+
+| Title                                                                                                                       | Venue                             | Date    | Paper Link                                                                  | Project Page                                   |
+| :-------------------------------------------------------------------------------------------------------------------------- | :-------------------------------- | :------ | :-------------------------------------------------------------------------- | :--------------------------------------------- |
+| **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions**                                                         | arXiv                             | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1)                                  | [huggingface](https://huggingface.co/VaxGuide) |
+| **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024    | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available                                  |
+
+### **2.4 General-purpose Healthcare Avatars**
+
+| Title                                         | Venue | Date    | Paper Link                                 | Project Page  |
+| :-------------------------------------------- | :---- | :------ | :----------------------------------------- | :------------ |
 | **A general-purpose AI avatar in healthcare** | arXiv | 2024.01 | [Paper](http://arxiv.org/abs/2401.12981v1) | Not Available |
-| **Talk2Care: Facilitating asynchronous patient-provider communication with large-language-model** | arXiv | 2023.9 | [Paper](https://arxiv.org/abs/2309.09357) | Not Available |
+
+
 
 ## **3. Drug Discovery & Development**
 
