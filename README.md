@@ -186,7 +186,7 @@ We will try to make this list updated. If you found any error or any missed pape
 16. [arxiv 2024.7] **Cod, towards an interpretable medical agent using chain of diagnosis** [[paper]](http://arxiv.org/abs/2407.13301v2)
 17. [arxiv 2024.7] **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** [[paper]](http://arxiv.org/abs/2407.03103v2)
 18. [TMI] **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering** [[paper]](https://ieeexplore.ieee.org/abstract/document/10752912)
-19. [ICLR 2025 Oral] **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** [[paper]](https://arxiv.org/abs/2407.00203)
+19. [ICLR 2025 Oral] **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** [[paper]](https://arxiv.org/abs/2407.00203) [[project page]](https://github.com/PathFoundation/PathGen-1.6M)
 20. [arxiv 2024.7] **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control** [[paper]](http://arxiv.org/abs/2407.02736v1)
 21. [arxiv 2024.6] **Exploring llm multi-agents for icd coding** [[paper]](http://arxiv.org/abs/2406.15363v2)
 22. [arxiv 2024.12] **Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System** [[paper]](https://arxiv.org/abs/2412.06828)
@@ -253,21 +253,22 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
+| **AURA: A Multi-modal Medical Agent for Understanding, Reasoning & Annotation** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.16940v1) | ![Star](https://img.shields.io/github/stars/nimafathi/AURA.svg?style=social&label=Star) <br> [GitHub](https://github.com/nimafathi/AURA) |
+| **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow** | arXiv | 2025.03 | [Paper](https://arxiv.org/abs/2503.18968) | ![Star](https://img.shields.io/github/stars/jinlab-imvr/MedAgent-Pro?style=social&label=Star) <br> [GitHub](https://github.com/jinlab-imvr/MedAgent-Pro) |
+| **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.02 | [Paper](https://arxiv.org/abs/2502.20301) | ![Star](https://img.shields.io/github/stars/MAGIC-AI4Med/M3Builder?style=social&label=Star) <br> [GitHub](https://github.com/MAGIC-AI4Med/M3Builder) |
 | **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** | ACL | 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1298/) | ![Star](https://img.shields.io/github/stars/yczhou001/MAM.svg?style=social&label=Star) <br> [GitHub](https://github.com/yczhou001/MAM) |
 | **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wangyixinxin/MMedAgent) |
-| **AURA: A Multi-modal Medical Agent for Understanding, Reasoning & Annotation** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.16940v1) | ![Star](https://img.shields.io/github/stars/nimafathi/AURA.svg?style=social&label=Star) <br> [GitHub](https://github.com/nimafathi/AURA) |
-| **M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging** | arXiv | 2025.02 | [Paper](https://arxiv.org/abs/2502.20301) | Not Available |
-| **A Multimodal Multi-Agent Framework for Radiology Report Generation** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.09787v1) | Not Available |
-| **A Multi-Agent System for Complex Reasoning in Radiology Visual Question Answering** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02841v1) | Not Available |
 
 ### **1.2 Radiology Agents (CT, X-ray, etc.)**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
+| **A Multi-Agent System for Complex Reasoning in Radiology Visual Question Answering** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02841v1) | Not Available |
+| **AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.19322v1) | ![Star](https://img.shields.io/github/stars/XLIAaron/uncertainty-aware-cxr-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/XLIAaron/uncertainty-aware-cxr-agent) |
+| **PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.10501v1) | ![Star](https://img.shields.io/github/stars/ys-feng/PASS-Code.svg?style=social&label=Star) <br> [GitHub](https://github.com/ys-feng/PASS-Code) |
+| **A Multimodal Multi-Agent Framework for Radiology Report Generation** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.09787v1) | Not Available |
 | **CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.16229v1) | Not Available |
 | **MedRAX: Medical reasoning agent for chest x-ray** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02673v2) | ![Star](https://img.shields.io/github/stars/bowang-lab/MedRAX.svg?style=social&label=Star) <br> [GitHub](https://github.com/bowang-lab/MedRAX) |
-| **AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.19322v1) | ![Star](https://img.shields.io/github/stars/XLIAaron/uncertainty-aware-cxr-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/XLIAaron/uncertainty-aware-cxr-agent) |
-| **PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.10501v1) | Not Available |
 | **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01807-8) | Not Available |
 | **Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System** | arXiv | 2024.12 | [Paper](https://arxiv.org/abs/2412.06828) | Not Available |
 
@@ -280,7 +281,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01293v1) | Not Available |
 | **Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02258v1) | ![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG) |
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | MLHS | 2025 | [Paper](https://proceedings.mlr.press/v259/naeem25a.html) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag) |
-| **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | ICLR (Oral) | 2024.07 | [Paper](https://arxiv.org/abs/2407.00203) | Not Available |
+| **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | ICLR (Oral) | 2024.07 | [Paper](https://arxiv.org/abs/2407.00203) | ![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star) <br> [GitHub](https://github.com/PathFoundation/PathGen-1.6M) |
 
 ### **1.4 Cardiovascular Imaging**
 
