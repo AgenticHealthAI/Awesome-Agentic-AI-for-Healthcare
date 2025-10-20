@@ -126,45 +126,46 @@ We will try to make this list updated. If you found any error or any missed pape
 90. [arxiv 2025.2] **Regulatory science innovation for generative AI and large language models in health and medicine: a global call for action** [[paper]](http://arxiv.org/abs/2502.07794v1)
 91. [arxiv 2025.2] **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration** [[paper]](http://arxiv.org/abs/2502.02807v1)
 92. [arxiv 2025.2] **MedRAX: Medical Reasoning Agent for Chest X-ray** [[paper]](http://arxiv.org/abs/2502.02673v2) [[code]](https://github.com/bowang-lab/MedRAX)
-93. [arxiv 2025.1] **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** [[paper]](http://arxiv.org/abs/2501.14654v2) [[project page]](https://github.com/stanfordmlgroup/MedAgentBench)
-94. [arxiv 2025.1] **AI Chatbots as Professional Service Agents: Developing a Professional Identity** [[paper]](http://arxiv.org/abs/2501.14179v2)
-95. [arxiv 2025.1] **Exploring the inquiry-diagnosis relationship with advanced patient simulators** [[paper]](http://arxiv.org/abs/2501.09484v2) [[project page]](https://github.com/PatientSimulator/PatientSimulator)
-96. [arxiv 2025.1] **AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling** [[paper]](http://arxiv.org/abs/2501.09426v1)
-97. [medrxiv 2025.1] **Advancing the prediction and understanding of placebo responses in chronic back pain using large language models** [[paper]](https://doi.org/10.1101/2025.01.21.25320888)
-98. [Nature] **Towards conversational diagnostic artificial intelligence** [[paper]](https://www.nature.com/articles/s41586-025-08866-7)
-99. [Intelligent Medicine] **Evaluating large language models and agents in healthcare: key challenges in clinical applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2667102625000294)
-100. [npj Digital Medicine] **Evaluating large language models as agents in the clinic** [[paper]](https://www.nature.com/articles/s41746-024-01083-y)
-101. [Nature Medicine 2025] **An evaluation framework for clinical use of large language models in patient interaction tasks** [[paper]](https://doi.org/10.1038/s41591-024-03328-5)
-102. [Nature Communications 2025] **An automated framework for assessing how well LLMs cite relevant medical references** [[paper]](https://doi.org/10.1038/s41467-025-58551-6)
-103. [Nature BME 2025] **CRISPR-GPT for agentic automation of gene-editing experiments** [[paper]](https://doi.org/10.1038/s41551-025-01463-z)
-104. [Nature Methods 2025] **GeneAgent: self-verification language agent for gene-set analysis using domain databases** [[paper]](https://doi.org/10.1038/s41592-025-02748-6)
-105. [npj Digital Medicine] **CARE-AD: A Multi-Agent Large Language Model Framework for Alzheimer's Disease Prediction Using Longitudinal Clinical Notes** [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
-106. [npj Digital Medicine] **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** [[paper]](https://www.nature.com/articles/s41746-025-01807-8)
-107. [npj Artificial Intelligence] **HealthcareAgent: Eliciting the Power of Large Language Models for Medical Consultation** [[paper]](https://www.nature.com/articles/s44387-025-00021-x.pdf)
-108. [Scientific Reports 2025] **Democratizing cost-effective, agentic artificial intelligence to multilingual medical summarization through knowledge distillation** [[paper]](https://doi.org/10.1038/s41598-025-10451-x)
-109. [Scientific Reports 2025] **A multi-agent system based on HNC for domain-specific machine translation** [[paper]](https://doi.org/10.1038/s41598-025-03414-9)
-110. [biorxiv 2025.6] **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Genetic Biomarker-Based Medical Diagnosis** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1.full.pdf)
-111. [JAMIA 2025] **Improving Large Language Model Applications in Biomedicine with Retrieval-Augmented Generation: A Systematic Review, Meta-Analysis, and Clinical Development Guidelines** [[paper]](https://doi.org/10.1093/jamia/ocaf008)
-112. [JAMIA Open 2025] **Conversational health agents: a personalized large language model-powered agent framework** [[paper]](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991)
-113. [JMIR] **The Effectiveness of a Custom AI Chatbot for Type 2 Diabetes Mellitus Health Literacy: Development and Evaluation Study** [[paper]](https://doi.org/10.2196/70131)
-114. [JMIR Aging 2025] **The PDC30 Chatbot—Development of a Psychoeducational Resource on Dementia Caregiving Among Family Caregivers: Mixed Methods Acceptability Study** [[paper]](https://aging.jmir.org/2025/1/e63715)
-115. [JoVE] **Evidence-based knowledge synthesis and hypothesis validation: Navigating biomedical knowledge bases via explainable ai and agentic systems** [[paper]](https://www.jove.com/v/67525/evidence-based-knowledge-synthesis-hypothesis-validation-navigating)
-116. [arxiv 2024.8] **Drugagent: Multi-agent large language model-based reasoning for drug-target interaction prediction** [[paper]](https://arxiv.org/abs/2408.13378)
-117. [Bioinformatics 2025] **ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning** [[paper]](https://doi.org/10.1093/bioinformatics/btaf031)
-118. [Healthcare (Basel) 2025] **MedScrubCrew: A Medical Multi-Agent Framework for Automating Appointment Scheduling Based on Patient-Provider Profile Resource Matching** [[paper]](https://doi.org/10.3390/healthcare13141649)
-119. [Clinical Neurophysiology 2025] **Agent-guided AI-powered interpretation and reporting of nerve conduction studies and EMG (INSPIRE)** [[paper]](https://www.sciencedirect.com/science/article/pii/S1388245725006443)
-120. [Expert Systems with Applications 2025] **A two-stage proactive dialogue generator for efficient clinical information collection using large language model** [[paper]](https://doi.org/10.1016/j.eswa.2025.127833)
-121. [Physics in Medicine & Biology 2025] **A feasibility study of automating radiotherapy planning with large language model agents** [[paper]](https://doi.org/10.1088/1361-6560/adbff1)
-122. [JCO 2025] **A large language model (LLM)-based multi-agent framework for risk stratification and treatment recommendations in localized prostate cancer (locPCa).** [[paper]](https://doi.org/10.1200/JCO.2025.43.16_suppl.5108)
-123. [ICDH] **Voice-based AI Agents: Filling the Economic Gaps in Digital Health Delivery** [[paper]](https://ieeexplore.ieee.org/document/11120408/)
-124. [IEEE EMBC 2025] **Knowledge-infused LLM-powered conversational health agent: A case study for diabetes patients** [[paper]](https://ieeexplore.ieee.org/document/10781547)
-125. [ACL 2025] **Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://aclanthology.org/2025.acl-long.1381/)
-126. [ACL Findings 2025] **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** [[paper]](https://aclanthology.org/2025.findings-acl.1298/)
-127. [ACL Findings 2025] **ASTRID--An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems** [[paper]](https://aclanthology.org/2025.findings-acl.857/)
-128. [NAACL 2025] **A Layered Debating Multi-Agent System for Similar Disease Diagnosis** [[paper]](https://aclanthology.org/2025.naacl-short.46/)
-129. [NAACL 2025] **Menti: Bridging medical calculator and llm agent with nested tool calling** [[paper]](https://aclanthology.org/2025.naacl-long.263/)
-130. [COLING 2025] **Unveiling performance challenges of large language models in low-resource healthcare: A demographic fairness perspective** [[paper]](https://aclanthology.org/2025.coling-main.485/)
-131. [ICMI 2025] **An LLM-powered Socially Interactive Agent with Adaptive Facial Expressions for Conversing about Health** [[paper]](https://dl.acm.org/doi/10.1145/3686215.3688378)
+94. [arxiv 2025.2] **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** [[Paper]](https://arxiv.org/abs/2502.08916) [[project page]](https://pathfinder-dx.github.io/)
+95. [arxiv 2025.1] **MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents** [[paper]](http://arxiv.org/abs/2501.14654v2) [[project page]](https://github.com/stanfordmlgroup/MedAgentBench)
+96. [arxiv 2025.1] **AI Chatbots as Professional Service Agents: Developing a Professional Identity** [[paper]](http://arxiv.org/abs/2501.14179v2)
+97. [arxiv 2025.1] **Exploring the inquiry-diagnosis relationship with advanced patient simulators** [[paper]](http://arxiv.org/abs/2501.09484v2) [[project page]](https://github.com/PatientSimulator/PatientSimulator)
+98. [arxiv 2025.1] **AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling** [[paper]](http://arxiv.org/abs/2501.09426v1)
+99. [medrxiv 2025.1] **Advancing the prediction and understanding of placebo responses in chronic back pain using large language models** [[paper]](https://doi.org/10.1101/2025.01.21.25320888)
+100. [Nature] **Towards conversational diagnostic artificial intelligence** [[paper]](https://www.nature.com/articles/s41586-025-08866-7)
+101. [Intelligent Medicine] **Evaluating large language models and agents in healthcare: key challenges in clinical applications** [[paper]](https://www.sciencedirect.com/science/article/pii/S2667102625000294)
+102. [npj Digital Medicine] **Evaluating large language models as agents in the clinic** [[paper]](https://www.nature.com/articles/s41746-024-01083-y)
+103. [Nature Medicine 2025] **An evaluation framework for clinical use of large language models in patient interaction tasks** [[paper]](https://doi.org/10.1038/s41591-024-03328-5)
+104. [Nature Communications 2025] **An automated framework for assessing how well LLMs cite relevant medical references** [[paper]](https://doi.org/10.1038/s41467-025-58551-6)
+105. [Nature BME 2025] **CRISPR-GPT for agentic automation of gene-editing experiments** [[paper]](https://doi.org/10.1038/s41551-025-01463-z)
+106. [Nature Methods 2025] **GeneAgent: self-verification language agent for gene-set analysis using domain databases** [[paper]](https://doi.org/10.1038/s41592-025-02748-6)
+107. [npj Digital Medicine] **CARE-AD: A Multi-Agent Large Language Model Framework for Alzheimer's Disease Prediction Using Longitudinal Clinical Notes** [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
+108. [npj Digital Medicine] **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** [[paper]](https://www.nature.com/articles/s41746-025-01807-8)
+109. [npj Artificial Intelligence] **HealthcareAgent: Eliciting the Power of Large Language Models for Medical Consultation** [[paper]](https://www.nature.com/articles/s44387-025-00021-x.pdf)
+110. [Scientific Reports 2025] **Democratizing cost-effective, agentic artificial intelligence to multilingual medical summarization through knowledge distillation** [[paper]](https://doi.org/10.1038/s41598-025-10451-x)
+111. [Scientific Reports 2025] **A multi-agent system based on HNC for domain-specific machine translation** [[paper]](https://doi.org/10.1038/s41598-025-03414-9)
+112. [biorxiv 2025.6] **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Genetic Biomarker-Based Medical Diagnosis** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1.full.pdf)
+113. [JAMIA 2025] **Improving Large Language Model Applications in Biomedicine with Retrieval-Augmented Generation: A Systematic Review, Meta-Analysis, and Clinical Development Guidelines** [[paper]](https://doi.org/10.1093/jamia/ocaf008)
+114. [JAMIA Open 2025] **Conversational health agents: a personalized large language model-powered agent framework** [[paper]](https://academic.oup.com/jamiaopen/article/8/4/ooaf067/8186991)
+115. [JMIR] **The Effectiveness of a Custom AI Chatbot for Type 2 Diabetes Mellitus Health Literacy: Development and Evaluation Study** [[paper]](https://doi.org/10.2196/70131)
+116. [JMIR Aging 2025] **The PDC30 Chatbot—Development of a Psychoeducational Resource on Dementia Caregiving Among Family Caregivers: Mixed Methods Acceptability Study** [[paper]](https://aging.jmir.org/2025/1/e63715)
+117. [JoVE] **Evidence-based knowledge synthesis and hypothesis validation: Navigating biomedical knowledge bases via explainable ai and agentic systems** [[paper]](https://www.jove.com/v/67525/evidence-based-knowledge-synthesis-hypothesis-validation-navigating)
+118. [arxiv 2024.8] **Drugagent: Multi-agent large language model-based reasoning for drug-target interaction prediction** [[paper]](https://arxiv.org/abs/2408.13378)
+119. [Bioinformatics 2025] **ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning** [[paper]](https://doi.org/10.1093/bioinformatics/btaf031)
+120. [Healthcare (Basel) 2025] **MedScrubCrew: A Medical Multi-Agent Framework for Automating Appointment Scheduling Based on Patient-Provider Profile Resource Matching** [[paper]](https://doi.org/10.3390/healthcare13141649)
+121. [Clinical Neurophysiology 2025] **Agent-guided AI-powered interpretation and reporting of nerve conduction studies and EMG (INSPIRE)** [[paper]](https://www.sciencedirect.com/science/article/pii/S1388245725006443)
+122. [Expert Systems with Applications 2025] **A two-stage proactive dialogue generator for efficient clinical information collection using large language model** [[paper]](https://doi.org/10.1016/j.eswa.2025.127833)
+123. [Physics in Medicine & Biology 2025] **A feasibility study of automating radiotherapy planning with large language model agents** [[paper]](https://doi.org/10.1088/1361-6560/adbff1)
+124. [JCO 2025] **A large language model (LLM)-based multi-agent framework for risk stratification and treatment recommendations in localized prostate cancer (locPCa).** [[paper]](https://doi.org/10.1200/JCO.2025.43.16_suppl.5108)
+125. [ICDH] **Voice-based AI Agents: Filling the Economic Gaps in Digital Health Delivery** [[paper]](https://ieeexplore.ieee.org/document/11120408/)
+126. [IEEE EMBC 2025] **Knowledge-infused LLM-powered conversational health agent: A case study for diabetes patients** [[paper]](https://ieeexplore.ieee.org/document/10781547)
+127. [ACL 2025] **Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://aclanthology.org/2025.acl-long.1381/)
+128. [ACL Findings 2025] **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration** [[paper]](https://aclanthology.org/2025.findings-acl.1298/)
+129. [ACL Findings 2025] **ASTRID--An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems** [[paper]](https://aclanthology.org/2025.findings-acl.857/)
+130. [NAACL 2025] **A Layered Debating Multi-Agent System for Similar Disease Diagnosis** [[paper]](https://aclanthology.org/2025.naacl-short.46/)
+131. [NAACL 2025] **Menti: Bridging medical calculator and llm agent with nested tool calling** [[paper]](https://aclanthology.org/2025.naacl-long.263/)
+132. [COLING 2025] **Unveiling performance challenges of large language models in low-resource healthcare: A demographic fairness perspective** [[paper]](https://aclanthology.org/2025.coling-main.485/)
+133. [ICMI 2025] **An LLM-powered Socially Interactive Agent with Adaptive Facial Expressions for Conversing about Health** [[paper]](https://dl.acm.org/doi/10.1145/3686215.3688378)
 
 ## Year 2024
 
@@ -268,20 +269,22 @@ We will try to make this list updated. If you found any error or any missed pape
 | **A Multi-Agent System for Complex Reasoning in Radiology Visual Question Answering** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02841v1) | Not Available |
 | **AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.19322v1) | ![Star](https://img.shields.io/github/stars/XLIAaron/uncertainty-aware-cxr-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/XLIAaron/uncertainty-aware-cxr-agent) |
 | **PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.10501v1) | ![Star](https://img.shields.io/github/stars/ys-feng/PASS-Code.svg?style=social&label=Star) <br> [GitHub](https://github.com/ys-feng/PASS-Code) |
+| **RadFabric: Agentic AI System with Reasoning Capability for Radiology** | arXiv | 2025.08 | [Paper](https://arxiv.org/abs/2506.14142) | [Project](https://yidong11.github.io/Towards-Multi-Modal-Agentic-AI-System-for-Chest-X-Ray/) |
 | **A Multimodal Multi-Agent Framework for Radiology Report Generation** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.09787v1) | Not Available |
 | **CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.16229v1) | Not Available |
 | **MedRAX: Medical reasoning agent for chest x-ray** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02673v2) | ![Star](https://img.shields.io/github/stars/bowang-lab/MedRAX.svg?style=social&label=Star) <br> [GitHub](https://github.com/bowang-lab/MedRAX) |
-| **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01807-8) | Not Available |
+| **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01807-8) | ![Star](https://img.shields.io/github/stars/zzs95/CTPA-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/zzs95/CTPA-Agent) |
 | **Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System** | arXiv | 2024.12 | [Paper](https://arxiv.org/abs/2412.06828) | Not Available |
 
 ### **1.3 Pathology Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.20510v1) | Not Available |
-| **Evidence-based diagnostic reasoning with multi-agent copilot for human pathology** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.20964v1) | Not Available |
 | **GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01293v1) | Not Available |
 | **Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.02258v1) | ![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG) |
+| **Evidence-based diagnostic reasoning with multi-agent copilot for human pathology** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.20964v1) | Not Available |
+| **CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.20510v1) | Not Available |
+| **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology** | arXiv | 2025.02 | [Paper](https://arxiv.org/abs/2502.08916) | [project](https://pathfinder-dx.github.io/) |
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | MLHS | 2025 | [Paper](https://proceedings.mlr.press/v259/naeem25a.html) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag) |
 | **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | ICLR (Oral) | 2024.07 | [Paper](https://arxiv.org/abs/2407.00203) | ![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star) <br> [GitHub](https://github.com/PathFoundation/PathGen-1.6M) |
 
@@ -317,18 +320,18 @@ We will try to make this list updated. If you found any error or any missed pape
 | **Geneagent: self-verification language agent for gene-set analysis using domain databases** | Nature Methods | 2025 | [Paper](https://doi.org/10.1038/s41592-025-02748-6) | ![Star](https://img.shields.io/github/stars/ncbi-nlp/GeneAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ncbi-nlp/GeneAgent) |
 | **CRISPR-GPT for agentic automation of gene-editing experiments** | Nature BME | 2025 | [Paper](https://doi.org/10.1038/s41551-025-01463-z) | ![Star](https://img.shields.io/github/stars/cong-lab/crispr-gpt-pub.svg?style=social&label=Star) <br> [GitHub](https://github.com/cong-lab/crispr-gpt-pub) |
 | **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework for Genetic Biomarker-Based Medical Diagnosis** | biorxiv | 2025 | [Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1) | ![Star](https://img.shields.io/github/stars/Ayanami-E/HEAL-KGGen.svg?style=social&label=Star) <br> [GitHub](https://github.com/Ayanami-E/HEAL-KGGen) |
-| **AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration** | Bioinformatics | 2024.12 | [Paper](https://academic.oup.com/bioinformatics/article/41/7/btaf359/8169327) | Not Available |
+| **AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration** | Bioinformatics | 2024.12 | [Paper](https://academic.oup.com/bioinformatics/article/41/7/btaf359/8169327) | ![Star](https://img.shields.io/github/stars/Velazquez-Villarreal-Lab/AI-HOPE.svg?style=social&label=Star) <br> [GitHub](https://github.com/Velazquez-Villarreal-Lab/AI-HOPE)  |
 
 ### **1.9 EHR & Clinical Note Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01940-4) | Not Available |
-| **Infherno: End-to-end agent-based FHIR resource synthesis from free-form clinical notes** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.12261v1) | ![Star](https://img.shields.io/github/stars/j-frei/Infherno.svg?style=social&label=Star) <br> [GitHub](https://github.com/j-frei/Infherno) |
-| **Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** | arXiv | 2024.10 | [Paper](https://arxiv.org/abs/2410.02551) | [[link]](https://colacare.netlify.app/) |
 | **Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.21803v1) | Not Available |
-| **Agent-Based Feature Generation from Clinical Notes for Outcome Prediction** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01956v1) | Not Available |
-| **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** | KDD'24 Workshop | 2024.06 | [Paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/487318240/EHRFlow_WU_DOA28062024_VOR_CC-BY.pdf) | Not Available |
+| **SNOW: Agent-Based Feature Generation from Clinical Notes for Outcome Prediction** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01956v1) | [Project](https://joyeewang01.github.io/medical_data_scientist/) |
+| **Infherno: End-to-end agent-based FHIR resource synthesis from free-form clinical notes** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.12261v1) | ![Star](https://img.shields.io/github/stars/j-frei/Infherno.svg?style=social&label=Star) <br> [GitHub](https://github.com/j-frei/Infherno) |
+| **CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01940-4) |  ![Star](https://img.shields.io/github/stars/alicelee1/ad_care.svg?style=social&label=Star) <br> [GitHub](https://github.com/alicelee1/ad_care) |
+| **Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** | arXiv | 2024.10 | [Paper](https://arxiv.org/abs/2410.02551) | [[project]](https://colacare.netlify.app/) |
+| **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** | KDD'24 Workshop | 2024.06 | [Paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/487318240/EHRFlow_WU_DOA28062024_VOR_CC-BY.pdf) | ![Star](https://img.shields.io/github/stars/PKU-AICare/EHRFlow.svg?style=social&label=Star) <br> [GitHub](https://github.com/PKU-AICare/EHRFlow)  |
 | **A multi-agent architecture for privacy-preserving natural language interaction with FHIR-based electronic health records** | IEEE SoftCOM | 2024 | [Paper](https://ieeexplore.ieee.org/document/10721684/) | Not Available |
 
 ### **1.10 Mental Health & Counseling Agents**
@@ -347,7 +350,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** | arXiv | 2025.08 | [Paper](https://arxiv.org/abs/2508.04915) | Not Available |
+| **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** | arXiv | 2025.08 | [Paper](https://arxiv.org/abs/2508.04915) | ![Star](https://img.shields.io/github/stars/PKU-AICare/ConfAgents.svg?style=social&label=Star) <br> [GitHub](https://github.com/PKU-AICare/ConfAgents)  |
 | **Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.03038v1) | ![Star](https://img.shields.io/github/stars/tsukiiiiiiiii/TOR.svg?style=social&label=Star) <br> [GitHub](https://github.com/tsukiiiiiiiii/TOR) |
 | **KERAP: A knowledge-enhanced reasoning approach for accurate zero-shot diagnosis prediction** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.02773v2) | ![Star](https://img.shields.io/github/stars/constantjxyz/KERAP.svg?style=social&label=Star) <br> [GitHub](https://github.com/constantjxyz/KERAP) |
 | **An agentic system for rare disease diagnosis with traceable reasoning** | arXiv | 2025.06 | [Paper](https://arxiv.org/abs/2506.20430) | [[demo]](https://raredx.cn/doctor#/) |
@@ -376,9 +379,10 @@ We will try to make this list updated. If you found any error or any missed pape
 | **BioScientistAgent: Designing LLM-Biomedical Agents with KG-Augmented RL Reasoning Modules** | biorxiv | 2025.08 | [Paper](https://www.biorxiv.org/content/10.1101/2025.08.08.669291) | Not Available |
 | **TxAgent: An AI agent for therapeutic reasoning across a universe of tools** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.10970v1) | ![Star](https://img.shields.io/github/stars/mims-harvard/TxAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/mims-harvard/TxAgent) |
 | **RAG-Enhanced Collaborative LLM Agents for Drug Discovery** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.17506v2) | Not Available |
-| **Drugagent: Automating ai-aided drug discovery programming through llm multi-agent collaboration** | AAAI 2025 workshop AI4Research | 2024.05 | [Paper](https://arxiv.org/abs/2411.15692) | Not Available |
+| **Large Language Model Agent for Modular Task Execution in Drug Discovery** | arXiv | 2025.07 | [Paper](https://arxiv.org/abs/2507.02925) | ![Star](https://img.shields.io/github/stars/hoon-ock/AgentD.svg?style=social&label=Star) <br> [GitHub](https://github.com/hoon-ock/AgentD)  |
+| **Drugagent: Automating ai-aided drug discovery programming through llm multi-agent collaboration** | AAAI 2025 workshop AI4Research | 2024.05 | [Paper](https://arxiv.org/abs/2411.15692) |  ![Star](https://img.shields.io/github/stars/FermiQ/drugagent.svg?style=social&label=Star) <br> [GitHub](https://github.com/FermiQ/drugagent)  |
 | **TrialGenie: Empowering Clinical Trial Design with Agentic Intelligence and Real World Data** | medRxiv | 2025.04 | [Paper](https://www.medrxiv.org/content/10.1101/2025.04.17.25326033) | Not Available |
-| **AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.04293v1) | Not Available |
+| **AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.04293v1) | ![Star](https://img.shields.io/github/stars/lclarice/autoct.svg?style=social&label=Star) <br> [GitHub](https://github.com/lclarice/autoct) |
 | **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models** | npj Digital Medicine | 2024.01 | [Paper](https://www.nature.com/articles/s41746-024-01274-7) | Not Available |
 
 ## **4. Healthcare Administration & Workflow**
@@ -401,7 +405,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning** | arXiv | 2025.03 | [Paper](http://arxiv.org/abs/2503.07459v2) | ![Star](https://img.shields.io/github/stars/gersteinlab/medagents-benchmark.svg?style=social&label=Star) <br> [GitHub](https://github.com/gersteinlab/medagents-benchmark) |
 | **MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.12371v1) | ![Star](https://img.shields.io/github/stars/yhzhu99/MedAgentBoard.svg?style=social&label=Star) <br> [GitHub](https://github.com/yhzhu99/MedAgentBoard) |
 | **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments** | arXiv | 2024.05 | [Paper](https://arxiv.org/abs/2405.07960) | ![Star](https://img.shields.io/github/stars/samuelschmidgall/agentclinic.svg?style=social&label=Star) <br> [GitHub](https://github.com/samuelschmidgall/agentclinic) |
-| **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | Not Available |
+| **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | ![Star](https://img.shields.io/github/stars/wisdom-pan/Agent_Hospitalh.svg?style=social&label=Star) <br> [GitHub](https://github.com/wisdom-pan/Agent_Hospitalh)  |
 | **CliBench: A Multifaceted and Multigranular Evaluation of Clinical Diagnosis with LLMs** | arXiv | 2024.06 | [Paper](https://arxiv.org/abs/2406.09923) | ![Star](https://img.shields.io/github/stars/clibench/clibench.svg?style=social&label=Star) <br> [GitHub](https://github.com/clibench/clibench) |
 | **MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning** | arXiv | 2024.06 | [Paper](https://arxiv.org/abs/2406.00922) | ![Star](https://img.shields.io/github/stars/stellalisy/mediQ.svg?style=social&label=Star) <br> [GitHub](https://github.com/stellalisy/mediQ) |
 
