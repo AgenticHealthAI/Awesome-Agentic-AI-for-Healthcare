@@ -25,7 +25,7 @@ We will try to make this list updated. If you found any error or any missed pape
     - [1.8 Genomics & Biomarker Agents](#18-genomics--biomarker-agents)
     - [1.9 EHR & Clinical Note Agents](#19-ehr--clinical-note-agents)
     - [1.10 Mental Health & Counseling Agents](#110-mental-health--counseling-agents)
-    - [1.11 General Diagnosis & Reasoning Agents](#111-general-diagnosis--reasoning-agents)
+    - [1.11 Reasoning & Multi Agents](#111-reasoning--multi-agents)
   - [2. Patient-Facing Applications](#2-patient-facing-applications)
   - [3. Drug Discovery & Development](#3-drug-discovery--development)
   - [4. Healthcare Administration & Workflow](#4-healthcare-administration--workflow)
@@ -336,18 +336,17 @@ We will try to make this list updated. If you found any error or any missed pape
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
 | **VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety** | arXiv | 2025.06 | [Paper](http://arxiv.org/abs/2506.03520v1) | Not Available |
-| **MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.19860v2) | Not Available |
-| **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02807v1) | Not Available |
+| **MIND: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue** | ICML workshop | 2025.02 | [Paper](https://arxiv.org/abs/2502.19860) | ![Star](https://img.shields.io/github/stars/leoliu0618/mind-therapy-app.svg?style=social&label=Star) <br> [GitHub Reproduce](https://github.com/leoliu0618/mind-therapy-app)  |
+| **Cami: A counselor agent supporting motivational interviewing through state inference and topic exploration** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02807v1) | ![Star](https://img.shields.io/github/stars/IzzetYoung/CAMI.svg?style=social&label=Star) <br> [GitHub](https://github.com/IzzetYoung/CAMI)  |
 | **Autocbt: An autonomous multi-agent framework for cognitive behavioral therapy in psychological counseling** | arXiv | 2025.01 | [Paper](http://arxiv.org/abs/2501.09426v1) | Not Available |
-| **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02736v1) | Not Available |
-| **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | Not Available |
-| **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | Not Available |
+| **MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.02736v1) | ![Star](https://img.shields.io/github/stars/jennylee03/MentalAgora.svg?style=social&label=Star) <br> [GitHub](https://github.com/jennylee03/MentalAgora)  |
+| **Cactus: Towards psychological counseling conversations using cognitive behavioral theory** | arXiv | 2024.07 | [Paper](http://arxiv.org/abs/2407.03103v2) | ![Star](https://img.shields.io/github/stars/coding-groot/cactus.svg?style=social&label=Star) <br> [GitHub](https://github.com/coding-groot/cactus) |
+| **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** | arXiv | 2024.12 | [Paper](http://arxiv.org/abs/2412.14769v1) | ![Star](https://img.shields.io/github/stars/LYiHub/psydraw.svg?style=social&label=Star) <br> [GitHub](https://github.com/LYiHub/psydraw)  |
 
 ### **1.11 Reasoning & Multi Agents**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
-
 | **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** | arXiv | 2025.08 | [Paper](https://arxiv.org/abs/2508.04915) | Not Available |
 | **Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.03038v1) | ![Star](https://img.shields.io/github/stars/tsukiiiiiiiii/TOR.svg?style=social&label=Star) <br> [GitHub](https://github.com/tsukiiiiiiiii/TOR) |
 | **KERAP: A knowledge-enhanced reasoning approach for accurate zero-shot diagnosis prediction** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.02773v2) | ![Star](https://img.shields.io/github/stars/constantjxyz/KERAP.svg?style=social&label=Star) <br> [GitHub](https://github.com/constantjxyz/KERAP) |
