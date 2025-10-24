@@ -346,12 +346,13 @@ We will try to make this list updated. If you found any error or any missed pape
 | :--- | :--- | :--- | :--- | :--- |
 | **Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.21803v1) | Not Available |
 | **SNOW: Agent-Based Feature Generation from Clinical Notes for Outcome Prediction** | arXiv | 2025.08 | [Paper](http://arxiv.org/abs/2508.01956v1) | [Project](https://joyeewang01.github.io/medical_data_scientist/) |
+| **Trustworthy Agents for Electronic Health Records through Confidence Estimation** | arXiv | 2025.8 | [Paper](https://arxiv.org/abs/2508.19096) | ![Star](https://img.shields.io/github/stars/ldi-kyunghee/TrustEHRAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ldi-kyunghee/TrustEHRAgent) |
 | **Infherno: End-to-end agent-based FHIR resource synthesis from free-form clinical notes** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.12261v1) | ![Star](https://img.shields.io/github/stars/j-frei/Infherno.svg?style=social&label=Star) <br> [GitHub](https://github.com/j-frei/Infherno) |
+| **From EHRs to Patient Pathways: Scalable Modeling of Longitudinal Health Trajectories with LLMs** | arXiv | 2025.6 | [Paper](https://www.arxiv.org/abs/2506.04831) | Not Available |
 | **CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01940-4) |  ![Star](https://img.shields.io/github/stars/alicelee1/ad_care.svg?style=social&label=Star) <br> [GitHub](https://github.com/alicelee1/ad_care) |
 | **Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** | arXiv | 2024.10 | [Paper](https://arxiv.org/abs/2410.02551) | [[project]](https://colacare.netlify.app/) |
 | **EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow** | KDD'24 Workshop | 2024.06 | [Paper](https://www.pure.ed.ac.uk/ws/portalfiles/portal/487318240/EHRFlow_WU_DOA28062024_VOR_CC-BY.pdf) | ![Star](https://img.shields.io/github/stars/PKU-AICare/EHRFlow.svg?style=social&label=Star) <br> [GitHub](https://github.com/PKU-AICare/EHRFlow)  |
 | **A multi-agent architecture for privacy-preserving natural language interaction with FHIR-based electronic health records** | IEEE SoftCOM | 2024 | [Paper](https://ieeexplore.ieee.org/document/10721684/) | Not Available |
-| **Trustworthy Agents for Electronic Health Records through Confidence Estimation** | arXiv | 2025.8 | [Paper](https://arxiv.org/abs/2508.19096) | ![Star](https://img.shields.io/github/stars/ldi-kyunghee/TrustEHRAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ldi-kyunghee/TrustEHRAgent) |
 
 ### **1.11 Surgical Agents**
 
