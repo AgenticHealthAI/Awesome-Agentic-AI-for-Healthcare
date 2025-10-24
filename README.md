@@ -16,7 +16,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Papers by Category](#papers-by-category)
   - [1. Clinical Agents](#1-clinical-agents)
     - [1.1 Multi-Modal Agents](#11-multi-modal-agents)
-    - [1.2 Radiology Agents (CT, X-ray, etc.)](#12-radiology-agents-ct-x-ray-etc)
+    - [1.2 Radiology Agents (CT, X-ray, MRI, etc.)](#12-radiology-agents-ct-x-ray-mri-etc)
     - [1.3 Pathology Agents](#13-pathology-agents)
     - [1.4 Cardiovascular Imaging Agents](#14-cardiovascular-imaging)
     - [1.5 Sonography / Ultrasound Agents](#15-sonography--ultrasound)
@@ -274,7 +274,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wangyixinxin/MMedAgent) |
 
 
-### **1.2 Radiology Agents (CT, X-ray, MRI etc.)**
+### **1.2 Radiology Agents (CT, X-ray, MRI, etc.)**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
