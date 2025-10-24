@@ -178,6 +178,7 @@ We will try to make this list updated. If you found any error or any missed pape
 140. [MICCAI 2025] **CSAP-Assist: Instrument-Agent Dialogue Empowered Vision-Language Models for Collaborative Surgical Action Planning** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_14) [[GitHub]](https://github.com/einnullnull/Collaborative-Surgical-Action-Planning-Assist)  |
 141. [ICT4AWE 2025] **MentalRAG: Developing an Agentic Framework for Therapeutic Support Systems** [[paper]](https://www.scitepress.org/Papers/2025/132674/132674.pdf)
 142. [MLHC 2025] **Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases** [[paper]](https://proceedings.mlr.press/v298/kim25a.html)
+143. [Journal of imaging informatics in medicine] **AgentMRI: A Vison Language Model-Powered AI System for Self-regulating MRI Reconstruction with Multiple Degradations** [[paper]](https://link.springer.com/article/10.1007/s10278-025-01617-0)
 
 ## Year 2024
 
@@ -273,7 +274,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** | EMNLP | 2024 | [Paper](https://aclanthology.org/2024.findings-emnlp.510/) | ![Star](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Wangyixinxin/MMedAgent) |
 
 
-### **1.2 Radiology Agents (CT, X-ray, etc.)**
+### **1.2 Radiology Agents (CT, X-ray, MRI etc.)**
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :--- | :--- | :--- | :--- | :--- |
@@ -285,6 +286,7 @@ We will try to make this list updated. If you found any error or any missed pape
 | **CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering** | arXiv | 2025.05 | [Paper](http://arxiv.org/abs/2505.16229v1) | Not Available |
 | **MedRAX: Medical reasoning agent for chest x-ray** | arXiv | 2025.02 | [Paper](http://arxiv.org/abs/2502.02673v2) | ![Star](https://img.shields.io/github/stars/bowang-lab/MedRAX.svg?style=social&label=Star) <br> [GitHub](https://github.com/bowang-lab/MedRAX) |
 | **Vision-language model for report generation and outcome prediction in CT pulmonary angiogram** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01807-8) | ![Star](https://img.shields.io/github/stars/zzs95/CTPA-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/zzs95/CTPA-Agent) |
+| **AgentMRI: A Vison Language Model-Powered AI System for Self-regulating MRI Reconstruction with Multiple Degradations** | Journal of imaging informatics in medicine | 2025 | [Paper](https://link.springer.com/article/10.1007/s10278-025-01617-0) | Not Available |
 | **Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System** | arXiv | 2024.12 | [Paper](https://arxiv.org/abs/2412.06828) | Not Available |
 
 ### **1.3 Pathology Agents**
