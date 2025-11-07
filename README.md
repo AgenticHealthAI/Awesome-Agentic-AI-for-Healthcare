@@ -1,30 +1,27 @@
 # Awesome Agentic AI for Healthcare
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+[![Read Our Survey](https://img.shields.io/badge/Read%20Our%20Survey-Paper-blue?logo=readthedocs)](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
+[![Star on GitHub](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-Agentic-AI-for-Healthcare?style=social)](https://github.com/AgenticHealthAI/Awesome-Agentic-AI-for-Healthcare)
 
 <p align="center">
-  <img src="./landscape.png" alt="Agentic AI Landscape" width="100%" />
+  <img src="./landscape.png" alt="Overall Landscape" width="100%" />
 </p>
 
-<p align="center">
-  <strong>📘 Read our survey paper here:</strong>
-  <a href="https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare">A Comprehensive Survey of Agentic AI in Healthcare</a>
-</p>
-
-<p align="center">
-  <a href="https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare">
-    <img src="https://img.shields.io/badge/Read%20our%20Survey-Paper-blue?logo=readthedocs" alt="Read our Survey" />
-  </a>
-
-</p>
+**📘 Read our survey paper here:** [A Comprehensive Survey of Agentic AI in Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
 
 This repository is a curated list of research papers, projects, and resources related to the application of **agentic AI for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. Agentic AI refers to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
+<p align="center">
+  <img src="./statistics.png" alt="Statistics for Research Trends" width="100%" />
+</p>
+
 ---
 
-<font size=5><center><b> Table of Contents </b> </center></font>
+#### Table of Contents
 
 - [Latest Papers](#latest-papers)
   - [Year 2025](#year-2025)
@@ -513,4 +510,4 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 # Acknowledgement
 
-This page is contributed and maintained by a collaborative effort.
+This awesome list is maintained by a collaborative team from the University of Notre Dame, Johns Hopkins University, and Emory University. The authors are Gelei Xu*, Xueyang Li*, Yixiong Chen*, Yuying Duan*, Shuqing Wu*, Alexander Yu*, Ching-Hao Chiu*, Juntong Ni*, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, and Yiyu Shi (* equal contribution).
