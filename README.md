@@ -1,4 +1,4 @@
-# Awesome Agentic AI for Healthcare
+# Awesome AI Agents for Healthcare
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
@@ -9,11 +9,11 @@
   <img src="./landscape.png" alt="Overall Landscape" width="100%" />
 </p>
 
-**📘 Read our survey paper here:** [A Comprehensive Survey of Agentic AI in Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
+**📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents for Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
 
 This repository is a curated list of research papers, projects, and resources related to the application of **agentic AI for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. Agentic AI refers to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
+We will try to keep this list updated. If you found any errors or any missed paper, please don't hesitate to open issues or pull requests.
 
 <p align="center">
   <img src="./statistics.png" alt="Statistics for Research Trends" width="100%" />
