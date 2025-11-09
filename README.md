@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 [![Read Our Survey](https://img.shields.io/badge/Read%20Our%20Survey-Paper-blue?logo=readthedocs)](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
-[![Star on GitHub](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-Agentic-AI-for-Healthcare?style=social)](https://github.com/AgenticHealthAI/Awesome-Agentic-AI-for-Healthcare)
+[![Star on GitHub](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=social)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
 
 <p align="center">
   <img src="./landscape.png" alt="Overall Landscape" width="100%" />
@@ -11,7 +11,7 @@
 
 **📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents for Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
 
-This repository is a curated list of research papers, projects, and resources related to the application of **agentic AI for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. Agentic AI refers to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
+This repository is a curated list of research papers, projects, and resources related to the application of **AI agents for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. AI agents refer to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
 
 We will try to keep this list updated. If you found any errors or any missed paper, please don't hesitate to open issues or pull requests.
 
@@ -518,4 +518,4 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 # Acknowledgement
 
-This awesome list is maintained by a collaborative team from the University of Notre Dame, Johns Hopkins University, and Emory University. The authors are Gelei Xu*, Xueyang Li*, Yixiong Chen*, Yuying Duan*, Shuqing Wu*, Alexander Yu*, Ching-Hao Chiu*, Juntong Ni*, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, and Yiyu Shi (* equal contribution).
+This awesome list is maintained by a collaborative team from the University of Notre Dame, Johns Hopkins University, and Emory University. The authors of the survey paper are Gelei Xu*, Xueyang Li*, Yixiong Chen*, Yuying Duan*, Shuqing Wu*, Alexander Yu*, Ching-Hao Chiu*, Juntong Ni*, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, and Yiyu Shi (* equal contribution).
