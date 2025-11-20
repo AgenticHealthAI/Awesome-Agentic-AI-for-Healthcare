@@ -13,7 +13,7 @@
 
 This repository is a curated list of research papers, projects, and resources related to the application of **AI agents for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. AI agents refer to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs) and multi-agent systems.
 
-We will try to keep this list updated. If you found any errors or any missed paper, please don't hesitate to open issues or pull requests.
+We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.
 
 <p align="center">
   <img src="./statistics.png" alt="Statistics for Research Trends" width="100%" />
